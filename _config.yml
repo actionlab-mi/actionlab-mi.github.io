@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Action Lab Monash University, Indonesia"
+title                    : "Action Lab | Monash University, Indonesia"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "We’re a multidisciplinary team of impact-focused researchers working at the intersection of communities, technology and social innovation."
+name                     : &name "Action Lab | Monash University, Indonesia"
+description              : &description "Research Network"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
