@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+Action Lab, Monash University, Indonesia
+======
+
 Who We Are?
 ======
 
-We are a multidisciplinary team of researchers working at the intersection of communities, digital technology, and social innovation. We address the challenge of sustainability and inclusion in digital technology. We collaborate with external partners (industry, academia, and government) to develop projects with sustainable impact. We act as a research capacity for organisations by aligning our core values and collaborating with them to create tangible, meaningful solutions.
+We are a multidisciplinary team of researchers working at the intersection of communities, digital technology, and social innovation. We address the challenge of sustainability and inclusion in digital technology. We are part of the research group of Monash Global's Action Lab Network (Monash University Australia, Monash University Malaysia and Monash University Indonesia). We collaborate with external partners (industry, academia and government) to develop projects with sustainable impact. We act as a research capacity for organisations by aligning our core values and collaborating with them to create tangible, meaningful solutions.
 
 Our Project
 ======
