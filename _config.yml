@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Action Lab Monash University, Indonesia"
-  avatar           : "Profile_AL.jpg"
+  avatar           : "/images/Profile_AL.jpg"
   bio              : "Research Network"
   location         : "Indonesia"
   employer         :
