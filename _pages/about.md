@@ -25,7 +25,7 @@ Our Project
 
 The project will lay the groundwork for an organized effort to digitize numerous unlabeled resources to enable the training of language models and technologies for these languages, which in turn will promote multilingualism and linguistic diversity. In collaboration with the Vision and Language Group (Department of Data Science and Artificial Intelligence with Faculty of Information, Monash College Australia), researchers will collect and build a large and diverse collection of Indonesian (digital) language data in text, speech, and image form, and train language models on these data.
 
-Project Leader: Arif Perdana
+Project Leader: Derry Wijaya
 
 **Inclusive Financial Services: Widening Access to Peer-to-Peer (P2P) Lending**
 
@@ -33,7 +33,7 @@ Project Leader: Arif Perdana
 
 This project aims to help fintech credit institutions improve their credit risk modelling. The results of our research could positively impact marginalised consumers' access to credit and enable lenders to contribute to their livelihoods. This project explores the critical role of sociodemographic characteristics, economic conditions, technological opportunities, and network effects on financial inclusion. Understanding these factors could help fintech lending institutions develop their service and reduce the financial gap through technological implementation.
 
-Project Leader: Derry Wijaya
+Project Leader: Arif Perdana
 
 **Inclusive Nutrition: Development and Validation of Intake24 for Indonesia**
 
