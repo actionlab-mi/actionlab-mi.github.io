@@ -39,7 +39,7 @@ Project Leader: Arif Perdana
 
 ![Inclusive Nutrition](/images/InclusiveNutrition.jpg)
 
-This project aims to develop a cost-effective and sustainable digital infrastructure for the collection of high-quality nutritional data by low- and middle-income countries (LMICs). It is intended to make a significant step towards this goal by adapting Intake24 for the Indonesian population and promoting its use among national and regional public health institutions in Indonesia.
+This project aims to develop a cost-effective and sustainable digital health tools for the collection of high-quality dietary data in South-East Asia population. It is intended to make a significant step towards this goal by validating and adapting Intake24 for the Indonesian population and promoting its use among national and regional institutions in the region.
 
 Project Leader: Grace Wangge
 
