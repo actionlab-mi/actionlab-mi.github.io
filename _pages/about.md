@@ -23,7 +23,7 @@ Our Project
 
 ![Inclusive Language](/images/InclusiveLanguage.jpg)
 
-The project will lay the groundwork for an organized effort to digitize numerous unlabeled resources to enable the training of language models and technologies for these languages, which in turn will promote multilingualism and linguistic diversity. In collaboration with the Vision and Language Group (Department of Data Science and Artificial Intelligence with Faculty of Information, Monash College Australia), researchers will collect and build a large and diverse collection of Indonesian (digital) language data in text, speech, and image form, and train language models on these data.
+The project will lay the groundwork for an organized effort to digitize numerous unlabeled resources to enable the training of language models and technologies for these languages, which in turn will promote multilingualism and linguistic diversity. In collaboration with the Vision and Language Group (Department of Data Science and Artificial Intelligence with Faculty of Information Technology, Monash University, Australia), researchers will collect and build a large and diverse collection of Indonesian (digital) language data in text, speech, and image form, and train language models on these data.
 
 Project Leader: Derry Wijaya
 
