@@ -42,14 +42,6 @@ Derry conducts research in natural language processing (NLP), with a focus on ma
 Through interdisciplinary collaborations, Derry has conducted research on the applications of NLP to computational news framing and public health, in detecting and analysing how articles in traditional and emerging media on various public affairs or public health issues are written and framed. Derry has also conducted research on analysing bias and misinformation, within AI models and in public communications. Derry has a Postdoc from University of Pennsylvania and a PhD from Carnegie Mellon University. She received her Bachelor and Master’s Degrees in Computer Science from the National University of Singapore.
 
 
-**Dr. Henry Surendra**
-=============
-**Associate Professor of Public Health**
-
-Henry is an epidemiologist and Associate Professor of Public Health at Monash University Indonesia, He obtained his PhD in Epidemiology from the London School of Hygiene & Tropical Medicine, Master of Public Health in Field Epidemiology from Universitas Gadjah Mada, and Bachelor of Public Health from Universitas Ahmad Dahlan.
-His current research includes the evaluation of zoonotic malaria transmission and agricultural land use in Indonesia, COVID-19 vaccine effectiveness, impact of the COVID-19 epidemic on TB, HIV, and childhood vaccination programmes, as well as investigation of the changing epidemiology of COVID-19 in Indonesia. Henry is a Fellow of Royal Society for Public Health (FRSPH) UK, Honorary Fellow of the Menzies School of Health Research Australia, Member of Indonesian Academy of Young Scientist (Akademi Ilmuwan Muda Indonesia), and Member of Indonesian Epidemiologist Association.
-
-
 **Dr. Risqi Saputra**
 =============
 **Assistant Professor of Data Science**
