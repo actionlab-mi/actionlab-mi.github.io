@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Action Lab, Monash University, Indonesia
+Action Lab Indonesia Node
 ======
 
 Who We Are?
